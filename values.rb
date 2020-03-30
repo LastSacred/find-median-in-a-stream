@@ -1,0 +1,10 @@
+INPUT = "4
+5
+15
+1 
+3"
+
+EXPECTED_OUTPUT = "5
+10
+5
+4"
